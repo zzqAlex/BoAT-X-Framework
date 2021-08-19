@@ -1,0 +1,325 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29913 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.28.29913.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“kernel32.lib”
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29913 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.28.29913.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“kernel32.lib”
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/code/xinyi/userapp/boat_2_0/BoAT-X-Framework/vendor/platform/Neoway-N58/N58RootDirCode/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_12915 && [1/2] Building C object CMakeFiles\cmTC_12915.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_12915.exe
+FAILED: cmTC_12915.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_12915.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_12915.dir\CMakeCCompilerABI.c.obj  /out:cmTC_12915.exe /implib:cmTC_12915.lib /pdb:cmTC_12915.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_12915.dir/manifest.res CMakeFiles\cmTC_12915.dir/manifest.rc" failed (exit code 0) with the following output:
+系统找不到指定的文件。
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/code/xinyi/userapp/boat_2_0/BoAT-X-Framework/vendor/platform/Neoway-N58/N58RootDirCode/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_629af && [1/2] Building C object CMakeFiles\cmTC_629af.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_629af.exe
+FAILED: cmTC_629af.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_629af.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_629af.dir\testCCompiler.c.obj  /out:cmTC_629af.exe /implib:cmTC_629af.lib /pdb:cmTC_629af.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_629af.dir/manifest.res CMakeFiles\cmTC_629af.dir/manifest.rc" failed (exit code 0) with the following output:
+系统找不到指定的文件。
+ninja: build stopped: subcommand failed.
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: /DWIN32;/D_WINDOWS;/W3
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29913 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.28.29913.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“kernel32.lib”
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29913 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.28.29913.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“kernel32.lib”
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/code/xinyi/userapp/boat_2_0/BoAT-X-Framework/vendor/platform/Neoway-N58/N58RootDirCode/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_b5544 && [1/2] Building C object CMakeFiles\cmTC_b5544.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_b5544.exe
+FAILED: cmTC_b5544.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_b5544.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_b5544.dir\CMakeCCompilerABI.c.obj  /out:cmTC_b5544.exe /implib:cmTC_b5544.lib /pdb:cmTC_b5544.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_b5544.dir/manifest.res CMakeFiles\cmTC_b5544.dir/manifest.rc" failed (exit code 0) with the following output:
+系统找不到指定的文件。
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/code/xinyi/userapp/boat_2_0/BoAT-X-Framework/vendor/platform/Neoway-N58/N58RootDirCode/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_232d8 && [1/2] Building C object CMakeFiles\cmTC_232d8.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_232d8.exe
+FAILED: cmTC_232d8.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_232d8.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_232d8.dir\testCCompiler.c.obj  /out:cmTC_232d8.exe /implib:cmTC_232d8.lib /pdb:cmTC_232d8.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_232d8.dir/manifest.res CMakeFiles\cmTC_232d8.dir/manifest.rc" failed (exit code 0) with the following output:
+系统找不到指定的文件。
+ninja: build stopped: subcommand failed.
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: /DWIN32;/D_WINDOWS;/W3
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29913 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.28.29913.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“kernel32.lib”
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29913 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.28.29913.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“kernel32.lib”
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/code/xinyi/userapp/boat_2_0/BoAT-X-Framework/vendor/platform/Neoway-N58/N58RootDirCode/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_ff3c7 && [1/2] Building C object CMakeFiles\cmTC_ff3c7.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_ff3c7.exe
+FAILED: cmTC_ff3c7.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_ff3c7.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_ff3c7.dir\CMakeCCompilerABI.c.obj  /out:cmTC_ff3c7.exe /implib:cmTC_ff3c7.lib /pdb:cmTC_ff3c7.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_ff3c7.dir/manifest.res CMakeFiles\cmTC_ff3c7.dir/manifest.rc" failed (exit code 0) with the following output:
+系统找不到指定的文件。
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/code/xinyi/userapp/boat_2_0/BoAT-X-Framework/vendor/platform/Neoway-N58/N58RootDirCode/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_184db && [1/2] Building C object CMakeFiles\cmTC_184db.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_184db.exe
+FAILED: cmTC_184db.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_184db.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_184db.dir\testCCompiler.c.obj  /out:cmTC_184db.exe /implib:cmTC_184db.lib /pdb:cmTC_184db.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_184db.dir/manifest.res CMakeFiles\cmTC_184db.dir/manifest.rc" failed (exit code 0) with the following output:
+系统找不到指定的文件。
+ninja: build stopped: subcommand failed.
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: /DWIN32;/D_WINDOWS;/W3
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29913 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.28.29913.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“kernel32.lib”
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29913 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.28.29913.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“kernel32.lib”
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/code/xinyi/userapp/boat_2_0/BoAT-X-Framework/vendor/platform/Neoway-N58/N58RootDirCode/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_8c007 && [1/2] Building C object CMakeFiles\cmTC_8c007.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_8c007.exe
+FAILED: cmTC_8c007.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_8c007.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_8c007.dir\CMakeCCompilerABI.c.obj  /out:cmTC_8c007.exe /implib:cmTC_8c007.lib /pdb:cmTC_8c007.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_8c007.dir/manifest.res CMakeFiles\cmTC_8c007.dir/manifest.rc" failed (exit code 0) with the following output:
+系统找不到指定的文件。
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/code/xinyi/userapp/boat_2_0/BoAT-X-Framework/vendor/platform/Neoway-N58/N58RootDirCode/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_e5883 && [1/2] Building C object CMakeFiles\cmTC_e5883.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_e5883.exe
+FAILED: cmTC_e5883.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_e5883.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_e5883.dir\testCCompiler.c.obj  /out:cmTC_e5883.exe /implib:cmTC_e5883.lib /pdb:cmTC_e5883.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_e5883.dir/manifest.res CMakeFiles\cmTC_e5883.dir/manifest.rc" failed (exit code 0) with the following output:
+系统找不到指定的文件。
+ninja: build stopped: subcommand failed.
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: /DWIN32;/D_WINDOWS;/W3
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29913 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.28.29913.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“kernel32.lib”
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29913 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.28.29913.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“kernel32.lib”
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/code/xinyi/userapp/boat_2_0/BoAT-X-Framework/vendor/platform/Neoway-N58/N58RootDirCode/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_fc127 && [1/2] Building C object CMakeFiles\cmTC_fc127.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_fc127.exe
+FAILED: cmTC_fc127.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_fc127.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_fc127.dir\CMakeCCompilerABI.c.obj  /out:cmTC_fc127.exe /implib:cmTC_fc127.lib /pdb:cmTC_fc127.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_fc127.dir/manifest.res CMakeFiles\cmTC_fc127.dir/manifest.rc" failed (exit code 0) with the following output:
+系统找不到指定的文件。
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/code/xinyi/userapp/boat_2_0/BoAT-X-Framework/vendor/platform/Neoway-N58/N58RootDirCode/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_f40f0 && [1/2] Building C object CMakeFiles\cmTC_f40f0.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_f40f0.exe
+FAILED: cmTC_f40f0.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_f40f0.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_f40f0.dir\testCCompiler.c.obj  /out:cmTC_f40f0.exe /implib:cmTC_f40f0.lib /pdb:cmTC_f40f0.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_f40f0.dir/manifest.res CMakeFiles\cmTC_f40f0.dir/manifest.rc" failed (exit code 0) with the following output:
+系统找不到指定的文件。
+ninja: build stopped: subcommand failed.
+
+
+
